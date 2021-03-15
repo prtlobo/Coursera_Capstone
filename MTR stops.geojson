@@ -1,0 +1,5740 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-03-15T07:12:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/24357989",
+        "name": "青衣 Tsing Yi",
+        "name:en": "Tsing Yi",
+        "name:zh": "青衣",
+        "note": "AEL up",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "TSY",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1074211,
+          22.358341
+        ]
+      },
+      "id": "node/24357989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/243844812",
+        "name": "羅湖 Lo Wu",
+        "name:en": "Lo Wu",
+        "name:zh": "羅湖",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "LOW",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1131399,
+          22.5282003
+        ]
+      },
+      "id": "node/243844812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/243844834",
+        "name": "上水 Sheung Shui",
+        "name:en": "Sheung Shui",
+        "name:zh": "上水",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "SHS",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1280498,
+          22.501124
+        ]
+      },
+      "id": "node/243844834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/243844839",
+        "name": "粉嶺 Fanling",
+        "name:en": "Fanling",
+        "name:zh": "粉嶺",
+        "network": "MTR",
+        "old_name:en": "Fan Ling",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "FAN",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1386658,
+          22.4920423
+        ]
+      },
+      "id": "node/243844839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/243844884",
+        "name": "大埔墟 Tai Po Market",
+        "name:en": "Tai Po Market",
+        "name:zh": "大埔墟",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "TAP",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1707659,
+          22.4445147
+        ]
+      },
+      "id": "node/243844884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/243844926",
+        "name": "大學 University",
+        "name:en": "University",
+        "name:zh": "大學",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "UNI",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2100545,
+          22.4133852
+        ]
+      },
+      "id": "node/243844926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/243844947",
+        "name": "火炭 Fo Tan",
+        "name:en": "Fo Tan",
+        "name:zh": "火炭",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "FOT",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.198366,
+          22.3953371
+        ]
+      },
+      "id": "node/243844947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/243844957",
+        "name": "沙田 Sha Tin",
+        "name:en": "Sha Tin",
+        "name:zh": "沙田",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "SHT",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1877459,
+          22.3826796
+        ]
+      },
+      "id": "node/243844957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/243844966",
+        "brand": "港鐵 MTR",
+        "brand:en": "港鐵",
+        "brand:zh": "港鐵 MTR",
+        "loc_ref": "2",
+        "name": "大圍 Tai Wai",
+        "name:en": "Tai Wai",
+        "name:zh": "大圍",
+        "network": "港鐵 MTR",
+        "network:en": "MTR",
+        "network:wikidata": "Q14751",
+        "network:zh": "港鐵",
+        "operator": "香港鐵路有限公司 MTR Corporation Limited",
+        "operator:en": "MTR Corporation Limited",
+        "operator:wikidata": "Q1479375",
+        "operator:zh": "香港鐵路有限公司",
+        "owner": "九廣鐵路公司 Kowloon-Canton Railway Corporation",
+        "owner:en": "Kowloon-Canton Railway Corporation",
+        "owner:wikidata": "Q838436",
+        "owner:zh": "九廣鐵路公司",
+        "ownership": "public",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "TAW",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1785423,
+          22.3730772
+        ]
+      },
+      "id": "node/243844966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/243845056",
+        "name": "旺角東 Mong Kok East",
+        "name:en": "Mong Kok East",
+        "name:zh": "旺角東",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "MKK",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1725869,
+          22.3217126
+        ]
+      },
+      "id": "node/243845056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/243845077",
+        "name": "紅磡 Hung Hom",
+        "name:en": "Hung Hom",
+        "name:zh": "紅磡",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "HUH",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1814484,
+          22.3027981
+        ]
+      },
+      "id": "node/243845077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253288836",
+        "name": "北角 North Point",
+        "name:en": "North Point",
+        "name:zh": "北角",
+        "note": "ISL down",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "NOP",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2003964,
+          22.2911365
+        ]
+      },
+      "id": "node/253288836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253288849",
+        "name": "西灣河 Sai Wan Ho",
+        "name:en": "Sai Wan Ho",
+        "name:zh": "西灣河",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "SWH",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2222818,
+          22.2816237
+        ]
+      },
+      "id": "node/253288849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253288859",
+        "name": "杏花邨 Heng Fa Chuen",
+        "name:en": "Heng Fa Chuen",
+        "name:zh": "杏花邨",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "HFC",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2397239,
+          22.276619
+        ]
+      },
+      "id": "node/253288859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253288867",
+        "name": "柴灣 Chai Wan",
+        "name:en": "Chai Wan",
+        "name:zh": "柴灣",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "CHW",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2370517,
+          22.2646033
+        ]
+      },
+      "id": "node/253288867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253333824",
+        "name": "機場 Airport",
+        "name:en": "Airport",
+        "name:zh": "機場",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "AIR",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9365921,
+          22.3158106
+        ]
+      },
+      "id": "node/253333824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/262119858",
+        "name": "中環 Central",
+        "name:en": "Central",
+        "name:zh": "中環",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "CEN",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1593594,
+          22.2816007
+        ]
+      },
+      "id": "node/262119858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/262119934",
+        "name": "佐敦 Jordan",
+        "name:en": "Jordan",
+        "name:zh": "佐敦",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "JOR",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1716158,
+          22.3050921
+        ]
+      },
+      "id": "node/262119934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/262135162",
+        "name": "烏溪沙 Wu Kai Sha",
+        "name:en": "Wu Kai Sha",
+        "name:zh": "烏溪沙",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "WKS",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.243854,
+          22.4292202
+        ]
+      },
+      "id": "node/262135162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/262135171",
+        "name": "馬鞍山 Ma On Shan",
+        "name:en": "Ma On Shan",
+        "name:zh": "馬鞍山",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "MOS",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2317481,
+          22.4249596
+        ]
+      },
+      "id": "node/262135171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/262135570",
+        "name": "沙田圍 Sha Tin Wai",
+        "name:en": "Sha Tin Wai",
+        "name:zh": "沙田圍",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "STW",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1948085,
+          22.3769209
+        ]
+      },
+      "id": "node/262135570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/262135577",
+        "name": "車公廟 Che Kung Temple",
+        "name:en": "Che Kung Temple",
+        "name:zh": "車公廟",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "CKT",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1860988,
+          22.3747619
+        ]
+      },
+      "id": "node/262135577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/262146161",
+        "name": "柯士甸 Austin",
+        "name:en": "Austin",
+        "name:zh": "柯士甸",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "AUS",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.166541,
+          22.3041946
+        ]
+      },
+      "id": "node/262146161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/262146168",
+        "name": "南昌 Nam Cheong",
+        "name:en": "Nam Cheong",
+        "name:zh": "南昌",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "NAC",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1538155,
+          22.3266391
+        ]
+      },
+      "id": "node/262146168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/262761250",
+        "name": "寶琳 Po Lam",
+        "name:en": "Po Lam",
+        "name:zh": "寶琳",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "POA",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2579671,
+          22.3225369
+        ]
+      },
+      "id": "node/262761250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/278943742",
+        "name": "太古 Tai Koo",
+        "name:en": "Tai Koo",
+        "name:zh": "太古",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "TAK",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2163547,
+          22.2844656
+        ]
+      },
+      "id": "node/278943742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/278952085",
+        "name": "九龍 Kowloon",
+        "name:en": "Kowloon",
+        "name:zh": "九龍",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "KOW",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1616963,
+          22.3048965
+        ]
+      },
+      "id": "node/278952085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/279126405",
+        "name": "奧運 Olympic",
+        "name:en": "Olympic",
+        "name:zh": "奧運",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "OLY",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1604114,
+          22.317703
+        ]
+      },
+      "id": "node/279126405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/279126413",
+        "name": "南昌 Nam Cheong",
+        "name:en": "Nam Cheong",
+        "name:zh": "南昌",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "NAC",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1536861,
+          22.3263889
+        ]
+      },
+      "id": "node/279126413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/279126759",
+        "name": "美孚 Mei Foo",
+        "name:en": "Mei Foo",
+        "name:zh": "美孚",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "MEF",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1364268,
+          22.3388929
+        ]
+      },
+      "id": "node/279126759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/279130944",
+        "loc_ref": "1",
+        "name": "錦上路 Kam Sheung Road",
+        "name:en": "Kam Sheung Road",
+        "name:zh": "錦上路",
+        "note:train": "yes",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "KSR",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0633108,
+          22.4347947
+        ]
+      },
+      "id": "node/279130944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/279244979",
+        "name": "元朗 Yuen Long",
+        "name:en": "Yuen Long",
+        "name:zh": "元朗",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "YUL",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0352445,
+          22.4459701
+        ]
+      },
+      "id": "node/279244979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/279248191",
+        "name": "朗屏 Long Ping",
+        "name:en": "Long Ping",
+        "name:zh": "朗屏",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "LOP",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0254341,
+          22.447583
+        ]
+      },
+      "id": "node/279248191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/279248202",
+        "name": "天水圍 Tin Shui Wai",
+        "name:en": "Tin Shui Wai",
+        "name:zh": "天水圍",
+        "platforms": "2",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "TIS",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.004696,
+          22.4480421
+        ]
+      },
+      "id": "node/279248202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/279248223",
+        "name": "兆康 Siu Hong",
+        "name:en": "Siu Hong",
+        "name:zh": "兆康",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "SIH",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9790545,
+          22.4119019
+        ]
+      },
+      "id": "node/279248223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/279248230",
+        "name": "屯門 Tuen Mun",
+        "name:en": "Tuen Mun",
+        "name:zh": "屯門",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "TUM",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9733214,
+          22.3952837
+        ]
+      },
+      "id": "node/279248230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/288376094",
+        "name": "東涌 Tung Chung",
+        "name:en": "Tung Chung",
+        "name:zh": "東涌",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "TUC",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9414054,
+          22.2891578
+        ]
+      },
+      "id": "node/288376094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/288376916",
+        "name": "青衣 Tsing Yi",
+        "name:en": "Tsing Yi",
+        "name:zh": "青衣",
+        "note": "TCL up",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "TSY",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1074312,
+          22.3583861
+        ]
+      },
+      "id": "node/288376916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/288378585",
+        "name": "荔景 Lai King",
+        "name:en": "Lai King",
+        "name:zh": "荔景",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "LAK",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.126244,
+          22.3484859
+        ]
+      },
+      "id": "node/288378585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/288378895",
+        "name": "九龍 Kowloon",
+        "name:en": "Kowloon",
+        "name:zh": "九龍",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "KOW",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1615535,
+          22.3049472
+        ]
+      },
+      "id": "node/288378895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/288379179",
+        "name": "油麻地 Yau Ma Tei",
+        "name:en": "Yau Ma Tei",
+        "name:ko": "야우마테이",
+        "name:zh": "油麻地",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "YMT",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1707466,
+          22.3130672
+        ]
+      },
+      "id": "node/288379179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/288379264",
+        "name": "太子 Prince Edward",
+        "name:en": "Prince Edward",
+        "name:ko": "프린스에드워드",
+        "name:zh": "太子",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "PRE",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1682327,
+          22.3244406
+        ]
+      },
+      "id": "node/288379264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/288379318",
+        "name": "旺角 Mong Kok",
+        "name:en": "Mong Kok",
+        "name:ko": "몽콕",
+        "name:zh": "旺角",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "MOK",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1693132,
+          22.3192386
+        ]
+      },
+      "id": "node/288379318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/288379339",
+        "name": "長沙灣 Cheung Sha Wan",
+        "name:en": "Cheung Sha Wan",
+        "name:zh": "長沙灣",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "CSW",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1561711,
+          22.3355226
+        ]
+      },
+      "id": "node/288379339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/288379363",
+        "name": "深水埗 Sham Shui Po",
+        "name:en": "Sham Shui Po",
+        "name:zh": "深水埗",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "SSP",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1624515,
+          22.3306308
+        ]
+      },
+      "id": "node/288379363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/288379517",
+        "name": "荔枝角 Lai Chi Kok",
+        "name:en": "Lai Chi Kok",
+        "name:zh": "荔枝角",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "LCK",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1477259,
+          22.3371546
+        ]
+      },
+      "id": "node/288379517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/288379522",
+        "name": "美孚 Mei Foo",
+        "name:en": "Mei Foo",
+        "name:zh": "美孚",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "MEF",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1392054,
+          22.3379838
+        ]
+      },
+      "id": "node/288379522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/288379611",
+        "name": "葵芳 Kwai Fong",
+        "name:en": "Kwai Fong",
+        "name:zh": "葵芳",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "KWF",
+        "subway": "yes",
+        "wikidata": "Q838803",
+        "wikipedia": "en:Kwai Fong station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1279597,
+          22.3569485
+        ]
+      },
+      "id": "node/288379611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/288379617",
+        "name": "葵興 Kwai Hing",
+        "name:en": "Kwai Hing",
+        "name:zh": "葵興",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "KWH",
+        "subway": "yes",
+        "wikidata": "Q839727",
+        "wikipedia": "en:Kwai Hing station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.131206,
+          22.3630265
+        ]
+      },
+      "id": "node/288379617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/288457559",
+        "name": "九龍塘 Kowloon Tong",
+        "name:en": "Kowloon Tong",
+        "name:zh": "九龍塘",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "KOT",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.177541,
+          22.336867
+        ]
+      },
+      "id": "node/288457559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/288699135",
+        "level": "-3",
+        "level:ref": "P",
+        "loc_ref": "1",
+        "name": "石硤尾 Shek Kip Mei",
+        "name:en": "Shek Kip Mei",
+        "name:zh": "石硤尾",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "SKM",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1687327,
+          22.3318072
+        ]
+      },
+      "id": "node/288699135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/288703656",
+        "name": "樂富 Lok Fu",
+        "name:en": "Lok Fu",
+        "name:zh": "樂富",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "LOF",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1869748,
+          22.3380634
+        ]
+      },
+      "id": "node/288703656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/288704399",
+        "name": "黃大仙 Wong Tai Sin",
+        "name:en": "Wong Tai Sin",
+        "name:zh": "黃大仙",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "WTS",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1943553,
+          22.3417091
+        ]
+      },
+      "id": "node/288704399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/288704403",
+        "name": "鑽石山 Diamond Hill",
+        "name:en": "Diamond Hill",
+        "name:zh": "鑽石山",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "DIH",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2016466,
+          22.3400852
+        ]
+      },
+      "id": "node/288704403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/288704409",
+        "name": "彩虹 Choi Hung",
+        "name:en": "Choi Hung",
+        "name:zh": "彩虹",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "CHH",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2086311,
+          22.3354008
+        ]
+      },
+      "id": "node/288704409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/288705599",
+        "name": "九龍灣 Kowloon Bay",
+        "name:en": "Kowloon Bay",
+        "name:zh": "九龍灣",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "KOB",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2141658,
+          22.3235575
+        ]
+      },
+      "id": "node/288705599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/288705608",
+        "name": "牛頭角 Ngau Tau Kok",
+        "name:en": "Ngau Tau Kok",
+        "name:zh": "牛頭角",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "NTK",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2192625,
+          22.3154582
+        ]
+      },
+      "id": "node/288705608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/288705614",
+        "name": "觀塘 Kwun Tong",
+        "name:en": "Kwun Tong",
+        "name:zh": "觀塘",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "KWT",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2264543,
+          22.3122845
+        ]
+      },
+      "id": "node/288705614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/288706017",
+        "name": "油塘 Yau Tong",
+        "name:en": "Yau Tong",
+        "name:zh": "油塘",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "YAT",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.237233,
+          22.2978508
+        ]
+      },
+      "id": "node/288706017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/307391103",
+        "name": "將軍澳 Tseung Kwan O",
+        "name:en": "Tseung Kwan O",
+        "name:zh": "將軍澳",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "TKO",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2599465,
+          22.3074422
+        ]
+      },
+      "id": "node/307391103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/307394049",
+        "name": "調景嶺 Tiu Keng Leng",
+        "name:en": "Tiu Keng Leng",
+        "name:zh": "調景嶺",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.252426,
+          22.3040231
+        ]
+      },
+      "id": "node/307394049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/307394050",
+        "name": "調景嶺 Tiu Keng Leng",
+        "name:en": "Tiu Keng Leng",
+        "name:zh": "調景嶺",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2523301,
+          22.3041138
+        ]
+      },
+      "id": "node/307394050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/316729749",
+        "name": "落馬洲 Lok Ma Chau",
+        "name:en": "Lok Ma Chau",
+        "name:zh": "落馬洲",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "LMC",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0657907,
+          22.5144476
+        ]
+      },
+      "id": "node/316729749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/316731315",
+        "name": "馬場 Racecourse",
+        "name:en": "Racecourse",
+        "name:zh": "馬場",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "RAC",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2029649,
+          22.4004416
+        ]
+      },
+      "id": "node/316731315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/357138078",
+        "name": "迪士尼 Disneyland Resort",
+        "name:en": "Disneyland Resort",
+        "name:zh": "迪士尼",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "DIS",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.045146,
+          22.3154849
+        ]
+      },
+      "id": "node/357138078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/384143704",
+        "name": "尖東 East Tsim Sha Tsui",
+        "name:en": "East Tsim Sha Tsui",
+        "name:zh": "尖東",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "ETS",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1746402,
+          22.2952166
+        ]
+      },
+      "id": "node/384143704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/506479328",
+        "name": "南昌 Nam Cheong",
+        "name:en": "Nam Cheong",
+        "name:zh": "南昌",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "NAC",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1534954,
+          22.3261903
+        ]
+      },
+      "id": "node/506479328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/515673758",
+        "name": "香港大學 HKU",
+        "name:en": "HKU",
+        "name:zh": "香港大學",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "HKU",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.135518,
+          22.2838947
+        ]
+      },
+      "id": "node/515673758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/515677041",
+        "name": "堅尼地城 Kennedy Town",
+        "name:en": "Kennedy Town",
+        "name:zh": "堅尼地城",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "KET",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1284282,
+          22.2810725
+        ]
+      },
+      "id": "node/515677041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/623891093",
+        "name": "太和 Tai Wo",
+        "name:en": "Tai Wo",
+        "name:zh": "太和",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "TWO",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1612012,
+          22.4509658
+        ]
+      },
+      "id": "node/623891093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/644564532",
+        "name": "上水 Sheung Shui",
+        "name:en": "Sheung Shui",
+        "name:zh": "上水",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "SHS",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1280755,
+          22.5011468
+        ]
+      },
+      "id": "node/644564532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/770928263",
+        "light_rail": "yes",
+        "name": "屯門碼頭 Tuen Mun Ferry Pier",
+        "name:en": "Tuen Mun Ferry Pier",
+        "name:zh": "屯門碼頭",
+        "network": "輕鐵 Light Rail",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "001",
+        "start_date": "1988-09-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9665998,
+          22.372595
+        ]
+      },
+      "id": "node/770928263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/797775539",
+        "light_rail": "yes",
+        "name": "三聖 Sam Shing",
+        "name:en": "Sam Shing",
+        "name:zh": "三聖",
+        "name:zh-Hans": "三圣",
+        "name:zh-Hant": "三聖",
+        "network": "輕鐵 Light Rail",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "920",
+        "start_date": "1992-02-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9764096,
+          22.3823957
+        ]
+      },
+      "id": "node/797775539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/984409361",
+        "name": "北角 North Point",
+        "name:en": "North Point",
+        "name:zh": "北角",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "NOP",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2005605,
+          22.2904837
+        ]
+      },
+      "id": "node/984409361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/984409448",
+        "name": "筲箕灣 Shau Kei Wan",
+        "name:en": "Shau Kei Wan",
+        "name:zh": "筲箕灣",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "SKW",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2286373,
+          22.2790272
+        ]
+      },
+      "id": "node/984409448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/984741544",
+        "name": "調景嶺 Tiu Keng Leng",
+        "name:en": "Tiu Keng Leng",
+        "name:zh": "調景嶺",
+        "note": "KTL",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.25233,
+          22.3041138
+        ]
+      },
+      "id": "node/984741544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/984741558",
+        "name": "鰂魚涌 Quarry Bay",
+        "name:en": "Quarry Bay",
+        "name:zh": "鰂魚涌",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "QUB",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2089006,
+          22.2881703
+        ]
+      },
+      "id": "node/984741558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/991294660",
+        "name": "油麻地 Yau Ma Tei",
+        "name:en": "Yau Ma Tei",
+        "name:ko": "야우마테이",
+        "name:zh": "油麻地",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "YMT",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1707484,
+          22.3130692
+        ]
+      },
+      "id": "node/991294660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/991294915",
+        "name": "太子 Prince Edward",
+        "name:en": "Prince Edward",
+        "name:ko": "프린스에드워드",
+        "name:zh": "太子",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "PRE",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1683614,
+          22.3244648
+        ]
+      },
+      "id": "node/991294915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/991294975",
+        "name": "旺角 Mong Kok",
+        "name:en": "Mong Kok",
+        "name:ko": "몽콕",
+        "name:zh": "旺角",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "MOK",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1694488,
+          22.319263
+        ]
+      },
+      "id": "node/991294975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/991295084",
+        "name": "油塘 Yau Tong",
+        "name:en": "Yau Tong",
+        "name:zh": "油塘",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "YAT",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2370927,
+          22.2977718
+        ]
+      },
+      "id": "node/991295084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1070003266",
+        "name": "海濱 Waterfront",
+        "name:en": "Waterfront",
+        "name:zh": "海濱",
+        "railway": "stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1758249,
+          22.2453002
+        ]
+      },
+      "id": "node/1070003266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1070003294",
+        "name": "高峰 Summit",
+        "name:en": "Summit",
+        "name:zh": "高峰",
+        "railway": "stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1709773,
+          22.2349925
+        ]
+      },
+      "id": "node/1070003294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295654768",
+        "name": "荔景 Lai King",
+        "name:en": "Lai King",
+        "name:zh": "荔景",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "LAK",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.125984,
+          22.3482836
+        ]
+      },
+      "id": "node/1295654768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295654775",
+        "name": "青衣 Tsing Yi",
+        "name:en": "Tsing Yi",
+        "name:zh": "青衣",
+        "note": "TCL down",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "TSY",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1074313,
+          22.3583861
+        ]
+      },
+      "id": "node/1295654775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295654784",
+        "brand": "港鐵 MTR",
+        "brand:en": "港鐵",
+        "brand:zh": "港鐵 MTR",
+        "loc_ref": "1",
+        "name": "大圍 Tai Wai",
+        "name:en": "Tai Wai",
+        "name:zh": "大圍",
+        "network": "港鐵 MTR",
+        "network:en": "MTR",
+        "network:wikidata": "Q14751",
+        "network:zh": "港鐵",
+        "operator": "香港鐵路有限公司 MTR Corporation Limited",
+        "operator:en": "MTR Corporation Limited",
+        "operator:wikidata": "Q1479375",
+        "operator:zh": "香港鐵路有限公司",
+        "owner": "九廣鐵路公司 Kowloon-Canton Railway Corporation",
+        "owner:en": "Kowloon-Canton Railway Corporation",
+        "owner:wikidata": "Q838436",
+        "owner:zh": "九廣鐵路公司",
+        "ownership": "public",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "TAW",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1785188,
+          22.3731108
+        ]
+      },
+      "id": "node/1295654784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295654804",
+        "loc_ref": "2",
+        "name": "欣澳 Sunny Bay",
+        "name:en": "Sunny Bay",
+        "name:zh": "欣澳",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "SUN",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0287591,
+          22.3319323
+        ]
+      },
+      "id": "node/1295654804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295654832",
+        "name": "紅磡 Hung Hom",
+        "name:en": "Hung Hom",
+        "name:zh": "紅磡",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "HUH",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1815679,
+          22.302784
+        ]
+      },
+      "id": "node/1295654832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295654836",
+        "name": "九龍 Kowloon",
+        "name:en": "Kowloon",
+        "name:zh": "九龍",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "KOW",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1616488,
+          22.3049115
+        ]
+      },
+      "id": "node/1295654836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295654882",
+        "name": "金鐘 Admiralty",
+        "name:en": "Admiralty",
+        "name:zh": "金鐘",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "ADM",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1659336,
+          22.2781318
+        ]
+      },
+      "id": "node/1295654882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295654891",
+        "name": "九龍塘 Kowloon Tong",
+        "name:en": "Kowloon Tong",
+        "name:zh": "九龍塘",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "KOT",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1758533,
+          22.3370053
+        ]
+      },
+      "id": "node/1295654891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295654897",
+        "name": "欣澳 Sunny Bay",
+        "name:en": "Sunny Bay",
+        "name:zh": "欣澳",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "SUN",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0290377,
+          22.3317036
+        ]
+      },
+      "id": "node/1295654897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1492217236",
+        "name": "落馬洲 Lok Ma Chau",
+        "name:en": "Lok Ma Chau",
+        "name:zh": "落馬洲",
+        "name:zh-Hans": "落马洲",
+        "name:zh-Hant": "落馬洲",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "LMC",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0657789,
+          22.5146332
+        ]
+      },
+      "id": "node/1492217236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1506594356",
+        "brand": "港鐵 MTR",
+        "brand:en": "港鐵",
+        "brand:zh": "港鐵 MTR",
+        "loc_ref": "3",
+        "name": "大圍 Tai Wai",
+        "name:en": "Tai Wai",
+        "name:zh": "大圍",
+        "network": "港鐵 MTR",
+        "network:en": "MTR",
+        "network:wikidata": "Q14751",
+        "network:zh": "港鐵",
+        "operator": "香港鐵路有限公司 MTR Corporation Limited",
+        "operator:en": "MTR Corporation Limited",
+        "operator:wikidata": "Q1479375",
+        "operator:zh": "香港鐵路有限公司",
+        "owner": "九廣鐵路公司 Kowloon-Canton Railway Corporation",
+        "owner:en": "Kowloon-Canton Railway Corporation",
+        "owner:wikidata": "Q838436",
+        "owner:zh": "九廣鐵路公司",
+        "ownership": "public",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "TAW",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1787838,
+          22.3728022
+        ]
+      },
+      "id": "node/1506594356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1703859087",
+        "name": "大埔墟 Tai Po Market",
+        "name:en": "Tai Po Market",
+        "name:zh": "大埔墟",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "TAP",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1707875,
+          22.4447575
+        ]
+      },
+      "id": "node/1703859087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1719431764",
+        "light_rail": "yes",
+        "name": "三聖 Sam Shing",
+        "name:en": "Sam Shing",
+        "name:zh": "三聖",
+        "name:zh-Hans": "三圣",
+        "name:zh-Hant": "三聖",
+        "network": "輕鐵 Light Rail",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "920",
+        "start_date": "1992-02-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.97639,
+          22.38232
+        ]
+      },
+      "id": "node/1719431764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1723162788",
+        "light_rail": "yes",
+        "name": "屯門碼頭 Tuen Mun Ferry Pier",
+        "name:en": "Tuen Mun Ferry Pier",
+        "name:zh": "屯門碼頭",
+        "network": "輕鐵 Light Rail",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "001",
+        "start_date": "1988-09-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9664792,
+          22.3726303
+        ]
+      },
+      "id": "node/1723162788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1723162796",
+        "light_rail": "yes",
+        "name": "屯門碼頭 Tuen Mun Ferry Pier",
+        "name:en": "Tuen Mun Ferry Pier",
+        "name:zh": "屯門碼頭",
+        "network": "輕鐵 Light Rail",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "001",
+        "start_date": "1988-09-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9663591,
+          22.3726578
+        ]
+      },
+      "id": "node/1723162796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1723162821",
+        "light_rail": "yes",
+        "name": "屯門碼頭 Tuen Mun Ferry Pier",
+        "name:en": "Tuen Mun Ferry Pier",
+        "name:zh": "屯門碼頭",
+        "network": "輕鐵 Light Rail",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "001",
+        "start_date": "1988-09-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9662443,
+          22.3726938
+        ]
+      },
+      "id": "node/1723162821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1735275648",
+        "alt_ref": "NAW",
+        "brand": "輕鐵 Light Rail",
+        "brand:en": "輕鐵 Light Rail",
+        "brand:wikidata": "Q3083033",
+        "brand:zh": "輕鐵 Light Rail",
+        "light_rail": "yes",
+        "name": "泥圍 Nai Wai",
+        "name:en": "Nai Wai",
+        "name:zh": "泥圍",
+        "network": "輕鐵 Light Rail",
+        "network:en": "Light Rail",
+        "network:wikidata": "Q3083033",
+        "network:zh": "輕鐵",
+        "operator": "香港鐵路有限公司 MTR Corporation Limited",
+        "operator:en": "MTR Corporation Limited",
+        "operator:type": "private",
+        "operator:wikidata": "Q1479375",
+        "operator:zh": "香港鐵路有限公司",
+        "owner": "九廣鐵路公司 Kowloon-Canton Railway Corporation",
+        "owner:en": "Kowloon-Canton Railway Corporation",
+        "owner:wikidata": "Q838436",
+        "owner:zh": "九廣鐵路公司",
+        "ownership": "public",
+        "public_transport": "stop_position",
+        "public_transport:network": "港鐵 MTR",
+        "public_transport:network:en": "港鐵 MTR",
+        "public_transport:network:wikidata": "Q14751",
+        "public_transport:network:zh": "港鐵",
+        "railway": "stop",
+        "railway:network": "輕鐵 Light Rail",
+        "railway:network:en": "Light Rail",
+        "railway:network:wikidata": "Q3083033",
+        "railway:network:zh": "輕鐵",
+        "ref": "360",
+        "start_date": "1988-09-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9863554,
+          22.4236166
+        ]
+      },
+      "id": "node/1735275648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1735275650",
+        "alt_ref": "NAW",
+        "brand": "輕鐵 Light Rail",
+        "brand:en": "輕鐵 Light Rail",
+        "brand:wikidata": "Q3083033",
+        "brand:zh": "輕鐵 Light Rail",
+        "light_rail": "yes",
+        "name": "泥圍 Nai Wai",
+        "name:en": "Nai Wai",
+        "name:zh": "泥圍",
+        "network": "輕鐵 Light Rail",
+        "network:en": "Light Rail",
+        "network:wikidata": "Q3083033",
+        "network:zh": "輕鐵",
+        "operator": "香港鐵路有限公司 MTR Corporation Limited",
+        "operator:en": "MTR Corporation Limited",
+        "operator:type": "private",
+        "operator:wikidata": "Q1479375",
+        "operator:zh": "香港鐵路有限公司",
+        "owner": "九廣鐵路公司 Kowloon-Canton Railway Corporation",
+        "owner:en": "Kowloon-Canton Railway Corporation",
+        "owner:wikidata": "Q838436",
+        "owner:zh": "九廣鐵路公司",
+        "ownership": "public",
+        "public_transport": "stop_position",
+        "public_transport:network": "港鐵 MTR",
+        "public_transport:network:en": "港鐵 MTR",
+        "public_transport:network:wikidata": "Q14751",
+        "public_transport:network:zh": "港鐵",
+        "railway": "stop",
+        "railway:network": "輕鐵 Light Rail",
+        "railway:network:en": "Light Rail",
+        "railway:network:wikidata": "Q3083033",
+        "railway:network:zh": "輕鐵",
+        "ref": "360",
+        "start_date": "1988-09-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.986814,
+          22.424044
+        ]
+      },
+      "id": "node/1735275650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2031291862",
+        "name": "石門 Shek Mun",
+        "name:en": "Shek Mun",
+        "name:zh": "石門",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "SHM",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2085828,
+          22.3877625
+        ]
+      },
+      "id": "node/2031291862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2031291900",
+        "name": "恆安 Heng On",
+        "name:en": "Heng On",
+        "name:zh": "恆安",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "HEO",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2259074,
+          22.4178319
+        ]
+      },
+      "id": "node/2031291900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2031291916",
+        "name": "馬鞍山 Ma On Shan",
+        "name:en": "Ma On Shan",
+        "name:zh": "馬鞍山",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "MOS",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2318023,
+          22.4248151
+        ]
+      },
+      "id": "node/2031291916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2031291917",
+        "name": "第一城 City One",
+        "name:en": "City One",
+        "name:zh": "第一城",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "CIO",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2038185,
+          22.3829861
+        ]
+      },
+      "id": "node/2031291917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2031291951",
+        "name": "烏溪沙 Wu Kai Sha",
+        "name:en": "Wu Kai Sha",
+        "name:zh": "烏溪沙",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "WKS",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2438798,
+          22.4291081
+        ]
+      },
+      "id": "node/2031291951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2031291969",
+        "brand": "港鐵 MTR",
+        "brand:en": "港鐵",
+        "brand:zh": "港鐵 MTR",
+        "loc_ref": "4",
+        "name": "大圍 Tai Wai",
+        "name:en": "Tai Wai",
+        "name:zh": "大圍",
+        "network": "港鐵 MTR",
+        "network:en": "MTR",
+        "network:wikidata": "Q14751",
+        "network:zh": "港鐵",
+        "operator": "香港鐵路有限公司 MTR Corporation Limited",
+        "operator:en": "MTR Corporation Limited",
+        "operator:wikidata": "Q1479375",
+        "operator:zh": "香港鐵路有限公司",
+        "owner": "九廣鐵路公司 Kowloon-Canton Railway Corporation",
+        "owner:en": "Kowloon-Canton Railway Corporation",
+        "owner:wikidata": "Q838436",
+        "owner:zh": "九廣鐵路公司",
+        "ownership": "public",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "TAW",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1788126,
+          22.3727593
+        ]
+      },
+      "id": "node/2031291969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2031292033",
+        "name": "車公廟 Che Kung Temple",
+        "name:en": "Che Kung Temple",
+        "name:zh": "車公廟",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "CKT",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1860932,
+          22.3747107
+        ]
+      },
+      "id": "node/2031292033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2031292042",
+        "name": "石門 Shek Mun",
+        "name:en": "Shek Mun",
+        "name:zh": "石門",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "SHM",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2084563,
+          22.3878526
+        ]
+      },
+      "id": "node/2031292042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2163048344",
+        "name": "荃灣西 Tsuen Wan West",
+        "name:en": "Tsuen Wan West",
+        "name:zh": "荃灣西",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "TWW",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1099384,
+          22.3683642
+        ]
+      },
+      "id": "node/2163048344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2176979623",
+        "name": "海洋公園 Ocean Park",
+        "name:en": "Ocean Park",
+        "name:zh": "海洋公園",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "OCP",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1743842,
+          22.2486518
+        ]
+      },
+      "id": "node/2176979623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2176979857",
+        "name": "黃竹坑 Wong Chuk Hang",
+        "name:en": "Wong Chuk Hang",
+        "name:zh": "黃竹坑",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "WCH",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1675411,
+          22.2477835
+        ]
+      },
+      "id": "node/2176979857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2176980003",
+        "name": "利東 Lei Tung",
+        "name:en": "Lei Tung",
+        "name:zh": "利東",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "LET",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1561054,
+          22.2418706
+        ]
+      },
+      "id": "node/2176980003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2179507624",
+        "name": "元朗 Yuen Long",
+        "name:en": "Yuen Long",
+        "name:zh": "元朗",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "YUL",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0352452,
+          22.4461603
+        ]
+      },
+      "id": "node/2179507624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2179507646",
+        "name": "天水圍 Tin Shui Wai",
+        "name:en": "Tin Shui Wai",
+        "name:zh": "天水圍",
+        "platforms": "2",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "TIS",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0045668,
+          22.4481513
+        ]
+      },
+      "id": "node/2179507646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2179507660",
+        "name": "兆康 Siu Hong",
+        "name:en": "Siu Hong",
+        "name:zh": "兆康",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "SIH",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9788763,
+          22.4119477
+        ]
+      },
+      "id": "node/2179507660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2179507704",
+        "loc_ref": "2",
+        "name": "錦上路 Kam Sheung Road",
+        "name:en": "Kam Sheung Road",
+        "name:zh": "錦上路",
+        "note:train": "yes",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "KSR",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0634661,
+          22.4348891
+        ]
+      },
+      "id": "node/2179507704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2179507747",
+        "name": "屯門 Tuen Mun",
+        "name:en": "Tuen Mun",
+        "name:zh": "屯門",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "TUM",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9731045,
+          22.3953319
+        ]
+      },
+      "id": "node/2179507747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2179507764",
+        "name": "朗屏 Long Ping",
+        "name:en": "Long Ping",
+        "name:zh": "朗屏",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "LOP",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0254333,
+          22.4477635
+        ]
+      },
+      "id": "node/2179507764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2179527342",
+        "name": "美孚 Mei Foo",
+        "name:en": "Mei Foo",
+        "name:zh": "美孚",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "MEF",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1364926,
+          22.3388903
+        ]
+      },
+      "id": "node/2179527342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2179527380",
+        "name": "荃灣西 Tsuen Wan West",
+        "name:en": "Tsuen Wan West",
+        "name:zh": "荃灣西",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "TWW",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1099855,
+          22.3684079
+        ]
+      },
+      "id": "node/2179527380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2179557419",
+        "name": "柯士甸 Austin",
+        "name:en": "Austin",
+        "name:zh": "柯士甸",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "AUS",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1667055,
+          22.3042568
+        ]
+      },
+      "id": "node/2179557419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2179557425",
+        "name": "尖東 East Tsim Sha Tsui",
+        "name:en": "East Tsim Sha Tsui",
+        "name:zh": "尖東",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "ETS",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.174562,
+          22.2953745
+        ]
+      },
+      "id": "node/2179557425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2179557427",
+        "name": "南昌 Nam Cheong",
+        "name:en": "Nam Cheong",
+        "name:zh": "南昌",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "NAC",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1538625,
+          22.3266981
+        ]
+      },
+      "id": "node/2179557427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2179557432",
+        "name": "紅磡 Hung Hom",
+        "name:en": "Hung Hom",
+        "name:zh": "紅磡",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "HUH",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1814004,
+          22.3028072
+        ]
+      },
+      "id": "node/2179557432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2179557462",
+        "name": "紅磡 Hung Hom",
+        "name:en": "Hung Hom",
+        "name:zh": "紅磡",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "HUH",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1812776,
+          22.3028083
+        ]
+      },
+      "id": "node/2179557462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2179557471",
+        "name": "紅磡 Hung Hom",
+        "name:en": "Hung Hom",
+        "name:zh": "紅磡",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "HUH",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1816136,
+          22.3027784
+        ]
+      },
+      "id": "node/2179557471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2181592163",
+        "name": "粉嶺 Fanling",
+        "name:en": "Fanling",
+        "name:zh": "粉嶺",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "FAN",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1386939,
+          22.4920708
+        ]
+      },
+      "id": "node/2181592163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2183425830",
+        "name": "大埔墟 Tai Po Market",
+        "name:en": "Tai Po Market",
+        "name:zh": "大埔墟",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "TAP",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1707762,
+          22.444637
+        ]
+      },
+      "id": "node/2183425830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2183425923",
+        "name": "太和 Tai Wo",
+        "name:en": "Tai Wo",
+        "name:zh": "太和",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "TWO",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.161234,
+          22.4509916
+        ]
+      },
+      "id": "node/2183425923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2183425988",
+        "name": "大學 University",
+        "name:en": "University",
+        "name:zh": "大學",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "UNI",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2100166,
+          22.4133903
+        ]
+      },
+      "id": "node/2183425988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2185507407",
+        "name": "馬場 Racecourse",
+        "name:en": "Racecourse",
+        "name:zh": "馬場",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "RAC",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.202847,
+          22.4004961
+        ]
+      },
+      "id": "node/2185507407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2185507410",
+        "name": "沙田 Sha Tin",
+        "name:en": "Sha Tin",
+        "name:zh": "沙田",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "SHT",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1875098,
+          22.3828331
+        ]
+      },
+      "id": "node/2185507410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2185507473",
+        "name": "沙田 Sha Tin",
+        "name:en": "Sha Tin",
+        "name:zh": "沙田",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "SHT",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1876501,
+          22.3827273
+        ]
+      },
+      "id": "node/2185507473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2185507487",
+        "name": "沙田 Sha Tin",
+        "name:en": "Sha Tin",
+        "name:zh": "沙田",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "SHT",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1876134,
+          22.3827487
+        ]
+      },
+      "id": "node/2185507487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2185507514",
+        "name": "火炭 Fo Tan",
+        "name:en": "Fo Tan",
+        "name:zh": "火炭",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "FOT",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1982772,
+          22.3953935
+        ]
+      },
+      "id": "node/2185507514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2185507515",
+        "name": "火炭 Fo Tan",
+        "name:en": "Fo Tan",
+        "name:zh": "火炭",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "FOT",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1981852,
+          22.3954451
+        ]
+      },
+      "id": "node/2185507515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2185546183",
+        "name": "九龍塘 Kowloon Tong",
+        "name:en": "Kowloon Tong",
+        "name:zh": "九龍塘",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "KOT",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1758959,
+          22.3370101
+        ]
+      },
+      "id": "node/2185546183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2187196164",
+        "name": "旺角東 Mong Kok East",
+        "name:en": "Mong Kok East",
+        "name:zh": "旺角東",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "MKK",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1725466,
+          22.321714
+        ]
+      },
+      "id": "node/2187196164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2187196185",
+        "name": "旺角東 Mong Kok East",
+        "name:en": "Mong Kok East",
+        "name:zh": "旺角東",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "MKK",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1724368,
+          22.3217111
+        ]
+      },
+      "id": "node/2187196185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2187196222",
+        "name": "紅磡 Hung Hom",
+        "name:en": "Hung Hom",
+        "name:zh": "紅磡",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "HUH",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1817159,
+          22.3027681
+        ]
+      },
+      "id": "node/2187196222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2291194921",
+        "name": "機場 Airport",
+        "name:en": "Airport",
+        "name:zh": "機場",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "AIR",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9366406,
+          22.3158213
+        ]
+      },
+      "id": "node/2291194921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2291194993",
+        "name": "東涌 Tung Chung",
+        "name:en": "Tung Chung",
+        "name:zh": "東涌",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "TUC",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9413221,
+          22.289278
+        ]
+      },
+      "id": "node/2291194993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2291195552",
+        "loc_ref": "1",
+        "name": "欣澳 Sunny Bay",
+        "name:en": "Sunny Bay",
+        "name:zh": "欣澳",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "SUN",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0288772,
+          22.3318288
+        ]
+      },
+      "id": "node/2291195552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2292179606",
+        "name": "青衣 Tsing Yi",
+        "name:en": "Tsing Yi",
+        "name:zh": "青衣",
+        "network": "MTR",
+        "note": "AEL down",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "TSY",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1074211,
+          22.358341
+        ]
+      },
+      "id": "node/2292179606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2292179609",
+        "name": "奧運 Olympic",
+        "name:en": "Olympic",
+        "name:zh": "奧運",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "OLY",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1601536,
+          22.3176404
+        ]
+      },
+      "id": "node/2292179609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2292179656",
+        "name": "荔景 Lai King",
+        "name:en": "Lai King",
+        "name:zh": "荔景",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "LAK",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.12604,
+          22.3484137
+        ]
+      },
+      "id": "node/2292179656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2292548102",
+        "name": "九龍 Kowloon",
+        "name:en": "Kowloon",
+        "name:zh": "九龍",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "KOW",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1615073,
+          22.3049657
+        ]
+      },
+      "id": "node/2292548102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2308404910",
+        "name": "鑽石山 Diamond Hill",
+        "name:en": "Diamond Hill",
+        "name:zh": "鑽石山",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "DIH",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2012805,
+          22.3396594
+        ]
+      },
+      "id": "node/2308404910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2308404918",
+        "name": "宋皇臺 Sung Wong Toi",
+        "name:en": "Sung Wong Toi",
+        "name:zh": "宋皇臺",
+        "note": "station to be added at opening",
+        "railway": "stop",
+        "ref": "SWT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1914265,
+          22.3258321
+        ]
+      },
+      "id": "node/2308404918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2308404957",
+        "name": "土瓜灣 To Kwa Wan",
+        "name:en": "To Kwa Wan",
+        "name:zh": "土瓜灣",
+        "note": "station to be added at opening",
+        "railway": "stop",
+        "ref": "TKW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1875849,
+          22.3169872
+        ]
+      },
+      "id": "node/2308404957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2308404965",
+        "name": "顯徑 Hin Keng",
+        "name:en": "Hin Keng",
+        "name:zh": "顯徑",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "HIK",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1707469,
+          22.3637954
+        ]
+      },
+      "id": "node/2308404965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2308405006",
+        "name": "宋皇臺 Sung Wong Toi",
+        "name:en": "Sung Wong Toi",
+        "name:zh": "宋皇臺",
+        "note": "station to be added at opening",
+        "railway": "stop",
+        "ref": "SWT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1913687,
+          22.3259424
+        ]
+      },
+      "id": "node/2308405006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2308405024",
+        "name": "馬頭圍 Ma Tau Wai",
+        "name:en": "Ma Tau Wai",
+        "name:zh": "馬頭圍",
+        "note": "station to be added at opening",
+        "railway": "stop",
+        "ref": "MTW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1875853,
+          22.3169878
+        ]
+      },
+      "id": "node/2308405024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2308405061",
+        "name": "顯徑 Hin Keng",
+        "name:en": "Hin Keng",
+        "name:zh": "顯徑",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "HIK",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1708125,
+          22.3637783
+        ]
+      },
+      "id": "node/2308405061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2308405110",
+        "name": "鑽石山 Diamond Hill",
+        "name:en": "Diamond Hill",
+        "name:zh": "鑽石山",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "DIH",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2011395,
+          22.3394988
+        ]
+      },
+      "id": "node/2308405110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2312304840",
+        "name": "羅湖 Lo Wu",
+        "name:en": "Lo Wu",
+        "name:zh": "羅湖",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "LOW",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1135067,
+          22.5281802
+        ]
+      },
+      "id": "node/2312304840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2319258376",
+        "name": "黃埔 Whampoa",
+        "name:en": "Whampoa",
+        "name:ko": "왐포아",
+        "name:zh": "黃埔",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "WHA",
+        "subway": "yes",
+        "wikipedia:en": "Whampoa Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1896461,
+          22.304901
+        ]
+      },
+      "id": "node/2319258376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2319258377",
+        "brand": "港鐵 MTR",
+        "brand:en": "港鐵",
+        "brand:zh": "港鐵 MTR",
+        "loc_ref": "1",
+        "name": "何文田 Ho Man Tin",
+        "name:en": "Ho Man Tin",
+        "name:ko": "호만틴",
+        "name:zh": "何文田",
+        "network": "港鐵 MTR",
+        "network:en": "MTR",
+        "network:wikidata": "Q14751",
+        "network:zh": "港鐵",
+        "operator": "香港鐵路有限公司 MTR Corporation Limited",
+        "operator:en": "MTR Corporation Limited",
+        "operator:wikidata": "Q1479375",
+        "operator:zh": "香港鐵路有限公司",
+        "owner": "香港鐵路有限公司 MTR Corporation Limited",
+        "owner:en": "MTR Corporation Limited",
+        "owner:wikidata": "Q1479375",
+        "owner:zh": "香港鐵路有限公司",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "HOM",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1827061,
+          22.3092775
+        ]
+      },
+      "id": "node/2319258377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2524919263",
+        "name": "啟德 Kai Tak",
+        "name:en": "Kai Tak",
+        "name:zh": "啟德",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "KAT",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1992233,
+          22.3303836
+        ]
+      },
+      "id": "node/2524919263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2524919264",
+        "name": "啟德 Kai Tak",
+        "name:en": "Kai Tak",
+        "name:zh": "啟德",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "KAT",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1993964,
+          22.3302386
+        ]
+      },
+      "id": "node/2524919264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2541019066",
+        "name": "大窩口 Tai Wo Hau",
+        "name:en": "Tai Wo Hau",
+        "name:zh": "大窩口",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "TWH",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1251194,
+          22.3706945
+        ]
+      },
+      "id": "node/2541019066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2541019163",
+        "name": "荃灣 Tsuen Wan",
+        "name:en": "Tsuen Wan",
+        "name:zh": "荃灣",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "TSW",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1178289,
+          22.3735787
+        ]
+      },
+      "id": "node/2541019163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2541331746",
+        "name": "葵興 Kwai Hing",
+        "name:en": "Kwai Hing",
+        "name:zh": "葵興",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "KWH",
+        "subway": "yes",
+        "wikidata": "Q839727",
+        "wikipedia": "en:Kwai Hing station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1311712,
+          22.3630255
+        ]
+      },
+      "id": "node/2541331746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2541331790",
+        "name": "葵芳 Kwai Fong",
+        "name:en": "Kwai Fong",
+        "name:zh": "葵芳",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "KWF",
+        "subway": "yes",
+        "wikidata": "Q838803",
+        "wikipedia": "en:Kwai Fong station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1279236,
+          22.3569667
+        ]
+      },
+      "id": "node/2541331790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2541359360",
+        "name": "荔景 Lai King",
+        "name:en": "Lai King",
+        "name:zh": "荔景",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "LAK",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1261192,
+          22.3483333
+        ]
+      },
+      "id": "node/2541359360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2541384250",
+        "name": "美孚 Mei Foo",
+        "name:en": "Mei Foo",
+        "name:zh": "美孚",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "MEF",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1391541,
+          22.3378719
+        ]
+      },
+      "id": "node/2541384250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2543036319",
+        "name": "荔枝角 Lai Chi Kok",
+        "name:en": "Lai Chi Kok",
+        "name:zh": "荔枝角",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "LCK",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1477646,
+          22.3370631
+        ]
+      },
+      "id": "node/2543036319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2544686360",
+        "name": "深水埗 Sham Shui Po",
+        "name:en": "Sham Shui Po",
+        "name:zh": "深水埗",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "SSP",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1624194,
+          22.3305925
+        ]
+      },
+      "id": "node/2544686360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2544686394",
+        "name": "長沙灣 Cheung Sha Wan",
+        "name:en": "Cheung Sha Wan",
+        "name:zh": "長沙灣",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "CSW",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1561441,
+          22.3354845
+        ]
+      },
+      "id": "node/2544686394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2550864623",
+        "name": "太子 Prince Edward",
+        "name:en": "Prince Edward",
+        "name:ko": "프린스에드워드",
+        "name:zh": "太子",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "PRE",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1682316,
+          22.3244396
+        ]
+      },
+      "id": "node/2550864623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2550864624",
+        "name": "旺角 Mong Kok",
+        "name:en": "Mong Kok",
+        "name:ko": "몽콕",
+        "name:zh": "旺角",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "MOK",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1693092,
+          22.3192384
+        ]
+      },
+      "id": "node/2550864624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2550870767",
+        "name": "大窩口 Tai Wo Hau",
+        "name:en": "Tai Wo Hau",
+        "name:zh": "大窩口",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "TWH",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.125116,
+          22.3708019
+        ]
+      },
+      "id": "node/2550870767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2550870768",
+        "name": "荃灣 Tsuen Wan",
+        "name:en": "Tsuen Wan",
+        "name:zh": "荃灣",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "TSW",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1178386,
+          22.3736065
+        ]
+      },
+      "id": "node/2550870768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2550881705",
+        "name": "油麻地 Yau Ma Tei",
+        "name:en": "Yau Ma Tei",
+        "name:ko": "야우마테이",
+        "name:zh": "油麻地",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "YMT",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1705816,
+          22.313059
+        ]
+      },
+      "id": "node/2550881705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2554379407",
+        "name": "佐敦 Jordan",
+        "name:en": "Jordan",
+        "name:zh": "佐敦",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "JOR",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1717821,
+          22.3051088
+        ]
+      },
+      "id": "node/2554379407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2555388098",
+        "name": "尖沙咀 Tsim Sha Tsui",
+        "name:en": "Tsim Sha Tsui",
+        "name:zh": "尖沙咀",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "TST",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.172169,
+          22.29718
+        ]
+      },
+      "id": "node/2555388098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2555388100",
+        "name": "尖沙咀 Tsim Sha Tsui",
+        "name:en": "Tsim Sha Tsui",
+        "name:zh": "尖沙咀",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "TST",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1722971,
+          22.2971822
+        ]
+      },
+      "id": "node/2555388100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2556657209",
+        "name": "金鐘 Admiralty",
+        "name:en": "Admiralty",
+        "name:zh": "金鐘",
+        "network": "MTR",
+        "note": "TWL up",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "ADM",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1653381,
+          22.2793199
+        ]
+      },
+      "id": "node/2556657209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2556738364",
+        "name": "中環 Central",
+        "name:en": "Central",
+        "name:zh": "中環",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "CEN",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1593311,
+          22.2815012
+        ]
+      },
+      "id": "node/2556738364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2556738383",
+        "name": "金鐘 Admiralty",
+        "name:en": "Admiralty",
+        "name:zh": "金鐘",
+        "network": "MTR",
+        "note": "TWL down",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "ADM",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1653386,
+          22.2793195
+        ]
+      },
+      "id": "node/2556738383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2557051035",
+        "name": "香港 Hong Kong",
+        "name:en": "Hong Kong",
+        "name:zh": "香港",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "HOK",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1583038,
+          22.2849181
+        ]
+      },
+      "id": "node/2557051035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2557051037",
+        "name": "香港 Hong Kong",
+        "name:en": "Hong Kong",
+        "name:zh": "香港",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "HOK",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1584546,
+          22.2851469
+        ]
+      },
+      "id": "node/2557051037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2557051040",
+        "name": "香港 Hong Kong",
+        "name:en": "Hong Kong",
+        "name:zh": "香港",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "HOK",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1583655,
+          22.2850161
+        ]
+      },
+      "id": "node/2557051040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2561063241",
+        "name": "上環 Sheung Wan",
+        "name:en": "Sheung Wan",
+        "name:zh": "上環",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "SHW",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1521488,
+          22.2865033
+        ]
+      },
+      "id": "node/2561063241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2561063247",
+        "name": "西營盤 Sai Ying Pun",
+        "name:en": "Sai Ying Pun",
+        "name:zh": "西營盤",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "SYP",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1429207,
+          22.2853513
+        ]
+      },
+      "id": "node/2561063247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2562413275",
+        "name": "坑口 Hang Hau",
+        "name:en": "Hang Hau",
+        "name:zh": "坑口",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "HAH",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2644721,
+          22.3155885
+        ]
+      },
+      "id": "node/2562413275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2562413325",
+        "name": "坑口 Hang Hau",
+        "name:en": "Hang Hau",
+        "name:zh": "坑口",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "HAH",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2644222,
+          22.3155612
+        ]
+      },
+      "id": "node/2562413325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2564544830",
+        "name": "銅鑼灣 Causeway Bay",
+        "name:en": "Causeway Bay",
+        "name:zh": "銅鑼灣",
+        "note": "ISL down",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "CAB",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1840143,
+          22.2801023
+        ]
+      },
+      "id": "node/2564544830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2564544838",
+        "name": "北角 North Point",
+        "name:en": "North Point",
+        "name:zh": "北角",
+        "note": "ISL up",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "NOP",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.200402,
+          22.291117
+        ]
+      },
+      "id": "node/2564544838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2564544849",
+        "name": "筲箕灣 Shau Kei Wan",
+        "name:en": "Shau Kei Wan",
+        "name:zh": "筲箕灣",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "SKW",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2286807,
+          22.2791606
+        ]
+      },
+      "id": "node/2564544849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2564544862",
+        "name": "西灣河 Sai Wan Ho",
+        "name:en": "Sai Wan Ho",
+        "name:zh": "西灣河",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "SWH",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2222814,
+          22.2816257
+        ]
+      },
+      "id": "node/2564544862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2564544875",
+        "name": "中環 Central",
+        "name:en": "Central",
+        "name:zh": "中環",
+        "note": "ISL down",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "CEN",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1578631,
+          22.281824
+        ]
+      },
+      "id": "node/2564544875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2564544949",
+        "name": "太古 Tai Koo",
+        "name:en": "Tai Koo",
+        "name:zh": "太古",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "TAK",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2163433,
+          22.2846092
+        ]
+      },
+      "id": "node/2564544949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2564544993",
+        "name": "灣仔 Wan Chai",
+        "name:en": "Wan Chai",
+        "name:zh": "灣仔",
+        "note": "ISL down",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "WAC",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1729643,
+          22.2775557
+        ]
+      },
+      "id": "node/2564544993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2564545056",
+        "name": "中環 Central",
+        "name:en": "Central",
+        "name:zh": "中環",
+        "note": "ISL up",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "CEN",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1578631,
+          22.281824
+        ]
+      },
+      "id": "node/2564545056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2564545093",
+        "name": "天后 Tin Hau",
+        "name:en": "Tin Hau",
+        "name:zh": "天后",
+        "note": "ISL up",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "TIH",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1920333,
+          22.2821959
+        ]
+      },
+      "id": "node/2564545093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2564545101",
+        "name": "金鐘 Admiralty",
+        "name:en": "Admiralty",
+        "name:zh": "金鐘",
+        "network": "MTR",
+        "note": "ISL up",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "ADM",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1653075,
+          22.2790893
+        ]
+      },
+      "id": "node/2564545101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2564545111",
+        "name": "金鐘 Admiralty",
+        "name:en": "Admiralty",
+        "name:zh": "金鐘",
+        "network": "MTR",
+        "note": "ISL down",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "ADM",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1653076,
+          22.2790894
+        ]
+      },
+      "id": "node/2564545111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2564545121",
+        "name": "鰂魚涌 Quarry Bay",
+        "name:en": "Quarry Bay",
+        "name:zh": "鰂魚涌",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "QUB",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2090372,
+          22.2882363
+        ]
+      },
+      "id": "node/2564545121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2564545127",
+        "name": "炮台山 Fortress Hill",
+        "name:en": "Fortress Hill",
+        "name:zh": "炮台山",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "FOH",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1932047,
+          22.2875967
+        ]
+      },
+      "id": "node/2564545127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2564545153",
+        "name": "灣仔 Wan Chai",
+        "name:en": "Wan Chai",
+        "name:zh": "灣仔",
+        "note": "ISL up",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "WAC",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1729643,
+          22.2775557
+        ]
+      },
+      "id": "node/2564545153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2564545163",
+        "name": "上環 Sheung Wan",
+        "name:en": "Sheung Wan",
+        "name:zh": "上環",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "SHW",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1521622,
+          22.2865578
+        ]
+      },
+      "id": "node/2564545163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2564639695",
+        "name": "炮台山 Fortress Hill",
+        "name:en": "Fortress Hill",
+        "name:zh": "炮台山",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "FOH",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1933924,
+          22.2875305
+        ]
+      },
+      "id": "node/2564639695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2567717542",
+        "name": "柴灣 Chai Wan",
+        "name:en": "Chai Wan",
+        "name:zh": "柴灣",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "CHW",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2371756,
+          22.264545
+        ]
+      },
+      "id": "node/2567717542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2567717556",
+        "name": "杏花邨 Heng Fa Chuen",
+        "name:en": "Heng Fa Chuen",
+        "name:zh": "杏花邨",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "HFC",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2397867,
+          22.2766653
+        ]
+      },
+      "id": "node/2567717556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2569844151",
+        "name": "堅尼地城 Kennedy Town",
+        "name:en": "Kennedy Town",
+        "name:zh": "堅尼地城",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "KET",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1284206,
+          22.2811322
+        ]
+      },
+      "id": "node/2569844151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2569844158",
+        "name": "西營盤 Sai Ying Pun",
+        "name:en": "Sai Ying Pun",
+        "name:zh": "西營盤",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "SYP",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1427988,
+          22.2854575
+        ]
+      },
+      "id": "node/2569844158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2569844159",
+        "name": "香港大學 HKU",
+        "name:en": "HKU",
+        "name:zh": "香港大學",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "HKU",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1355038,
+          22.2840491
+        ]
+      },
+      "id": "node/2569844159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2600839185",
+        "name": "北角 North Point",
+        "name:en": "North Point",
+        "name:zh": "北角",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "NOP",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2006096,
+          22.290314
+        ]
+      },
+      "id": "node/2600839185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2600841716",
+        "name": "鰂魚涌 Quarry Bay",
+        "name:en": "Quarry Bay",
+        "name:zh": "鰂魚涌",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "QUB",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2090338,
+          22.2882652
+        ]
+      },
+      "id": "node/2600841716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2600841717",
+        "name": "鰂魚涌 Quarry Bay",
+        "name:en": "Quarry Bay",
+        "name:zh": "鰂魚涌",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "QUB",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2090666,
+          22.2880868
+        ]
+      },
+      "id": "node/2600841717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2600847825",
+        "name": "油塘 Yau Tong",
+        "name:en": "Yau Tong",
+        "name:zh": "油塘",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "YAT",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2370785,
+          22.2978299
+        ]
+      },
+      "id": "node/2600847825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2674335288",
+        "name": "九龍灣 Kowloon Bay",
+        "name:en": "Kowloon Bay",
+        "name:zh": "九龍灣",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "KOB",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2140058,
+          22.323379
+        ]
+      },
+      "id": "node/2674335288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2674335289",
+        "name": "觀塘 Kwun Tong",
+        "name:en": "Kwun Tong",
+        "name:zh": "觀塘",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "KWT",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2263795,
+          22.3121569
+        ]
+      },
+      "id": "node/2674335289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2674335290",
+        "name": "牛頭角 Ngau Tau Kok",
+        "name:en": "Ngau Tau Kok",
+        "name:zh": "牛頭角",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "NTK",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.219179,
+          22.3153833
+        ]
+      },
+      "id": "node/2674335290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2674392727",
+        "name": "藍田 Lam Tin",
+        "name:en": "Lam Tin",
+        "name:zh": "藍田",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "LAT",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2328977,
+          22.3066758
+        ]
+      },
+      "id": "node/2674392727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2674392732",
+        "name": "藍田 Lam Tin",
+        "name:en": "Lam Tin",
+        "name:zh": "藍田",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "LAT",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2330154,
+          22.3067536
+        ]
+      },
+      "id": "node/2674392732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2674392736",
+        "name": "油塘 Yau Tong",
+        "name:en": "Yau Tong",
+        "name:zh": "油塘",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "YAT",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2372327,
+          22.2978508
+        ]
+      },
+      "id": "node/2674392736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3303947368",
+        "name": "天后 Tin Hau",
+        "name:en": "Tin Hau",
+        "name:zh": "天后",
+        "note": "ISL down",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "TIH",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1920333,
+          22.2821958
+        ]
+      },
+      "id": "node/3303947368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3304026514",
+        "name": "博覽館 AsiaWorld-Expo",
+        "name:en": "AsiaWorld-Expo",
+        "name:zh": "博覽館",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9422104,
+          22.3220263
+        ]
+      },
+      "id": "node/3304026514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3778450149",
+        "name": "黃竹坑 Wong Chuk Hang",
+        "name:en": "Wong Chuk Hang",
+        "name:zh": "黃竹坑",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "WCH",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1675085,
+          22.2478945
+        ]
+      },
+      "id": "node/3778450149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3900847296",
+        "monorail": "yes",
+        "public_transport": "stop_position",
+        "railway": "stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.927137,
+          22.3129689
+        ]
+      },
+      "id": "node/3900847296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3900847297",
+        "monorail": "yes",
+        "public_transport": "stop_position",
+        "railway": "stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9437423,
+          22.3182945
+        ]
+      },
+      "id": "node/3900847297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3900847298",
+        "monorail": "yes",
+        "public_transport": "stop_position",
+        "railway": "stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9336983,
+          22.3150402
+        ]
+      },
+      "id": "node/3900847298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3943626057",
+        "name": "金鐘 Admiralty",
+        "name:en": "Admiralty",
+        "name:zh": "金鐘",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "ADM",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1658238,
+          22.2782191
+        ]
+      },
+      "id": "node/3943626057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3943626058",
+        "name": "利東 Lei Tung",
+        "name:en": "Lei Tung",
+        "name:zh": "利東",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "LET",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1560169,
+          22.2419551
+        ]
+      },
+      "id": "node/3943626058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3943626059",
+        "name": "海洋公園 Ocean Park",
+        "name:en": "Ocean Park",
+        "name:zh": "海洋公園",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "OCP",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1743554,
+          22.248688
+        ]
+      },
+      "id": "node/3943626059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3961981068",
+        "monorail": "yes",
+        "public_transport": "stop_position",
+        "railway": "stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9177325,
+          22.3099785
+        ]
+      },
+      "id": "node/3961981068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4087334644",
+        "name": "沙田圍 Sha Tin Wai",
+        "name:en": "Sha Tin Wai",
+        "name:zh": "沙田圍",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "STW",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1948855,
+          22.3767851
+        ]
+      },
+      "id": "node/4087334644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4087914607",
+        "brand": "港鐵 MTR",
+        "brand:en": "港鐵",
+        "brand:zh": "港鐵 MTR",
+        "loc_ref": "2",
+        "name": "大水坑 Tai Shui Hang",
+        "name:en": "Tai Shui Hang",
+        "name:zh": "大水坑",
+        "network": "港鐵 MTR",
+        "network:en": "MTR",
+        "network:wikidata": "Q14751",
+        "network:zh": "港鐵",
+        "note:train": "yes",
+        "operator": "香港鐵路有限公司 MTR Corporation Limited",
+        "operator:en": "MTR Corporation Limited",
+        "operator:wikidata": "Q1479375",
+        "operator:zh": "香港鐵路有限公司",
+        "owner": "九廣鐵路公司 Kowloon-Canton Railway Corporation",
+        "owner:en": "Kowloon-Canton Railway Corporation",
+        "owner:wikidata": "Q838436",
+        "owner:zh": "九廣鐵路公司",
+        "ownership": "public",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "TSH",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2228207,
+          22.4084658
+        ]
+      },
+      "id": "node/4087914607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4087914608",
+        "brand": "港鐵 MTR",
+        "brand:en": "港鐵",
+        "brand:zh": "港鐵 MTR",
+        "loc_ref": "1",
+        "name": "大水坑 Tai Shui Hang",
+        "name:en": "Tai Shui Hang",
+        "name:zh": "大水坑",
+        "network": "港鐵 MTR",
+        "network:en": "MTR",
+        "network:wikidata": "Q14751",
+        "network:zh": "港鐵",
+        "note:train": "yes",
+        "operator": "香港鐵路有限公司 MTR Corporation Limited",
+        "operator:en": "MTR Corporation Limited",
+        "operator:wikidata": "Q1479375",
+        "operator:zh": "香港鐵路有限公司",
+        "owner": "九廣鐵路公司 Kowloon-Canton Railway Corporation",
+        "owner:en": "Kowloon-Canton Railway Corporation",
+        "owner:wikidata": "Q838436",
+        "owner:zh": "九廣鐵路公司",
+        "ownership": "public",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "TSH",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2226678,
+          22.4085353
+        ]
+      },
+      "id": "node/4087914608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092981296",
+        "name": "第一城 City One",
+        "name:en": "City One",
+        "name:zh": "第一城",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "CIO",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2036989,
+          22.3830885
+        ]
+      },
+      "id": "node/4092981296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4095567044",
+        "name": "恆安 Heng On",
+        "name:en": "Heng On",
+        "name:zh": "恆安",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "HEO",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2257749,
+          22.4178796
+        ]
+      },
+      "id": "node/4095567044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275578360",
+        "name": "銅鑼灣 Causeway Bay",
+        "name:en": "Causeway Bay",
+        "name:zh": "銅鑼灣",
+        "note": "ISL up",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "CAB",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1840146,
+          22.280102
+        ]
+      },
+      "id": "node/4275578360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4331887005",
+        "name": "鑽石山 Diamond Hill",
+        "name:en": "Diamond Hill",
+        "name:zh": "鑽石山",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "DIH",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2015891,
+          22.3399613
+        ]
+      },
+      "id": "node/4331887005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4331931864",
+        "name": "彩虹 Choi Hung",
+        "name:en": "Choi Hung",
+        "name:zh": "彩虹",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "CHH",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.208531,
+          22.335285
+        ]
+      },
+      "id": "node/4331931864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4331931865",
+        "name": "九龍塘 Kowloon Tong",
+        "name:en": "Kowloon Tong",
+        "name:zh": "九龍塘",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "KOT",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1775414,
+          22.336741
+        ]
+      },
+      "id": "node/4331931865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4331931866",
+        "name": "樂富 Lok Fu",
+        "name:en": "Lok Fu",
+        "name:zh": "樂富",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "LOF",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1870218,
+          22.3379446
+        ]
+      },
+      "id": "node/4331931866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4331931867",
+        "name": "旺角 Mong Kok",
+        "name:en": "Mong Kok",
+        "name:ko": "몽콕",
+        "name:zh": "旺角",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "MOK",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1694523,
+          22.3192647
+        ]
+      },
+      "id": "node/4331931867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4331931868",
+        "name": "太子 Prince Edward",
+        "name:en": "Prince Edward",
+        "name:ko": "프린스에드워드",
+        "name:zh": "太子",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "PRE",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1683664,
+          22.3244672
+        ]
+      },
+      "id": "node/4331931868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4331931869",
+        "level": "-3",
+        "level:ref": "P",
+        "loc_ref": "2",
+        "name": "石硤尾 Shek Kip Mei",
+        "name:en": "Shek Kip Mei",
+        "name:zh": "石硤尾",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "SKM",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1688604,
+          22.3318067
+        ]
+      },
+      "id": "node/4331931869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4331931870",
+        "name": "調景嶺 Tiu Keng Leng",
+        "name:en": "Tiu Keng Leng",
+        "name:zh": "調景嶺",
+        "note": "KTL",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2524261,
+          22.3040232
+        ]
+      },
+      "id": "node/4331931870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4331931871",
+        "name": "黃大仙 Wong Tai Sin",
+        "name:en": "Wong Tai Sin",
+        "name:zh": "黃大仙",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "WTS",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1943553,
+          22.3415832
+        ]
+      },
+      "id": "node/4331931871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4331931872",
+        "name": "油麻地 Yau Ma Tei",
+        "name:en": "Yau Ma Tei",
+        "name:ko": "야우마테이",
+        "name:zh": "油麻地",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "YMT",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1705858,
+          22.3130598
+        ]
+      },
+      "id": "node/4331931872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348591408",
+        "name": "彩虹 Choi Hung",
+        "name:en": "Choi Hung",
+        "name:zh": "彩虹",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "CHH",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.20859,
+          22.3353394
+        ]
+      },
+      "id": "node/4348591408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4383576294",
+        "access:conditional": "designated @ (emergency)",
+        "brand": "輕鐵 Light Rail",
+        "brand:en": "輕鐵 Light Rail",
+        "brand:wikidata": "Q3083033",
+        "brand:zh": "輕鐵 Light Rail",
+        "emergency": "designated",
+        "light_rail": "yes",
+        "loc_ref": "1",
+        "name": "洪天路緊急月台 Hung Tin Road Emergency Platform",
+        "name:en": "Hung Tin Road Emergency Platform",
+        "name:zh": "洪天路緊急月台",
+        "network": "港鐵 MTR",
+        "network:en": "港鐵 MTR",
+        "network:wikidata": "Q14751",
+        "network:zh": "港鐵",
+        "not:public_transport": "stop_position",
+        "operator": "香港鐵路有限公司 MTR Corporation Limited",
+        "operator:en": "MTR Corporation Limited",
+        "operator:wikidata": "Q1479375",
+        "operator:zh": "香港鐵路有限公司",
+        "owner": "九廣鐵路公司 Kowloon-Canton Railway Corporation",
+        "owner:en": "Kowloon-Canton Railway Corporation",
+        "owner:wikidata": "Q838436",
+        "owner:zh": "九廣鐵路公司",
+        "ownership": "public",
+        "railway": "stop",
+        "ref": "385",
+        "start_date": "1988-09-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9992601,
+          22.4355483
+        ]
+      },
+      "id": "node/4383576294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4460375639",
+        "brand": "港鐵 MTR",
+        "brand:en": "港鐵",
+        "brand:zh": "港鐵 MTR",
+        "loc_ref": "2",
+        "name": "何文田 Ho Man Tin",
+        "name:en": "Ho Man Tin",
+        "name:ko": "호만틴",
+        "name:zh": "何文田",
+        "network": "港鐵 MTR",
+        "network:en": "MTR",
+        "network:wikidata": "Q14751",
+        "network:zh": "港鐵",
+        "operator": "香港鐵路有限公司 MTR Corporation Limited",
+        "operator:en": "MTR Corporation Limited",
+        "operator:wikidata": "Q1479375",
+        "operator:zh": "香港鐵路有限公司",
+        "owner": "香港鐵路有限公司 MTR Corporation Limited",
+        "owner:en": "MTR Corporation Limited",
+        "owner:wikidata": "Q1479375",
+        "owner:zh": "香港鐵路有限公司",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "HOM",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1826762,
+          22.3092386
+        ]
+      },
+      "id": "node/4460375639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4784241742",
+        "name": "康城 LOHAS Park",
+        "name:en": "LOHAS Park",
+        "name:zh": "康城",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "LHP",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2688621,
+          22.2955616
+        ]
+      },
+      "id": "node/4784241742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4784241743",
+        "name": "康城 LOHAS Park",
+        "name:en": "LOHAS Park",
+        "name:zh": "康城",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "LHP",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2687716,
+          22.2956555
+        ]
+      },
+      "id": "node/4784241743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4784243684",
+        "name": "將軍澳 Tseung Kwan O",
+        "name:en": "Tseung Kwan O",
+        "name:zh": "將軍澳",
+        "network": "MTR",
+        "operator": "香港鐵路有限公司 MTR Corporation",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "TKO",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2599962,
+          22.3073157
+        ]
+      },
+      "id": "node/4784243684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5009068589",
+        "monorail": "yes",
+        "public_transport": "stop_position",
+        "railway": "stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9177614,
+          22.3099006
+        ]
+      },
+      "id": "node/5009068589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5009068592",
+        "monorail": "yes",
+        "public_transport": "stop_position",
+        "railway": "stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9437717,
+          22.3182167
+        ]
+      },
+      "id": "node/5009068592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5009068593",
+        "monorail": "yes",
+        "public_transport": "stop_position",
+        "railway": "stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9337274,
+          22.3149623
+        ]
+      },
+      "id": "node/5009068593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5009068595",
+        "monorail": "yes",
+        "public_transport": "stop_position",
+        "railway": "stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9271659,
+          22.312891
+        ]
+      },
+      "id": "node/5009068595"
+    }
+  ]
+}
