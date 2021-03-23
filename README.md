@@ -10,9 +10,9 @@
 - The Foursquare API was used to collect the top 10 *types* of venues around a 500m radius around each station.
 ## Results:
 - Two K means clustering algorithms were created- One based on the best silhouette score as shown below:
-![MTR Cluster K best](https://github.com/prtlobo/Coursera_Capstone/blob/71d761c69841890073e9036d6b2497df321f32b2/MTR%20Cluster%20(kbest).png)
+![MTR Cluster K best](https://github.com/prtlobo/Coursera_Capstone/blob/b476b25f813ac2ff022b691cde159c202fdd2a9a/MTr%20Cluster%20K%20best.png)
 And the other based on the same number of MTR lines (11): 
-![MTR K Lines](https://github.com/prtlobo/Coursera_Capstone/blob/71d761c69841890073e9036d6b2497df321f32b2/MTR%20Cluster%20(k%20MTR%20lines).png)
+![MTR K Lines](https://github.com/prtlobo/Coursera_Capstone/blob/b476b25f813ac2ff022b691cde159c202fdd2a9a/MTR%20Cluster%20K%20Line.png)
 ## Findings:
 One can see which stations are most similiar to one another in terms of venue types
 ## Future Work:
